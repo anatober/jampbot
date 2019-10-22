@@ -3,7 +3,9 @@ Color changer & chat parser for Moviebattles II.
 
 https://moviebattles.org
 
-Usage:
+## Usage:
+
+0. Install AutoIt https://www.autoitscript.com/site/autoit/downloads/
 
 1. Compile jampbot.au3
 
@@ -17,7 +19,7 @@ Usage:
 
 
 
-How to add new saber colors:
+## How to add new saber colors:
 
 1. Choose the desired saber color in MBII hilt window
 
@@ -37,7 +39,7 @@ Icon - https://icons8.com/icon/45060/bot
 
 
 
-Color formatting:
+## Color formatting:
 
 ^3 - is present in !info
 
