@@ -1,5 +1,5 @@
 # JampBot
-Color changer & chat parser for Moviebattles II.
+Color changer & chat parser for Moviebattles II (only works for JAMP).
 
 https://moviebattles.org
 
