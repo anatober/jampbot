@@ -1,12 +1,9 @@
-w0000000/0x7|^3Team Polaks^7 jedi, often referred to as one of the best saberists ever.\Winner of ^3Nations Cup 2010^7.
+display_name/search_name_1/search_name_2|^7Description ^1from ^2the ^3file.\Next message.
 327th|international clan (^0R.I.P^7), founded by ^3Urai'Fen^7.
 Aaron|ebat koney ebat. ebat koney ebat. ebat koney ebat. ebat koney ebat.
 Adequate people/ad.ppl|international clan, founded in 2010. Leader: ^3Pepsi^7.\Members: ^3Pepsi^7, ^3Helix^7, ^3Zebra^7, ^3Jiube^7, ^3Null^7, ^3Gr1meZ^7, ^3Brave^7, ^3Bybo4ka^7,\^3banDana^7, ^3Jul^7.
 Aizen/gayzen|bisexual spaniard, professional ^3smod ^7leaker. Member of ^3Cult^7.
-Alice/awice|^3staff ^7effective, great player, weird person, diamond of Sverige. Leader of ^3GJO^7, empress.\Muse of ^3Helix^7.
-Amara|eternal girlfriend, mother and slave of ^3Alice^7. Council member of ^3GJO^7.
 Angels of Death/AOD|multigaming clan, hosting 3 most popular US NA servers.
-Bastila Shan/bastila|nice and kind, senpai, never notices ^3Helix^7, has secret secrets!\The biggest secret is the talent of mentorship.
 Blocking points/BP|red bar in the bottom right corner.\Represents your ability to block incoming saber swings.
 BlueGreen/BG|international clan, hosting 3 popular ^3MBII ^7servers.\Members: ^3Viserys^7, ^3Defender^7, ^3GrimMalkin^7, ^3Liniyka^7, ^3Maick^7, ^3SunRise^7, ^3Lightsword^7.
 Bob billy/im rebel|^1lol^7.
@@ -15,8 +12,8 @@ Bybo4ka|salty motherfucker, ^3Helix ^7wannabe, member of ^3ad.ppl^7.
 Cake|mad cuz bad.
 Seras/seras|go imps.
 Thrawn/thrawn|will fuck your dog. Member of the ^3Cult^7.
-Clans|^3ad.ppl^7, ^3BG^7, ^3DN^7, ^3327th^7, ^3dv[8]^7, ^3GJO^7, ^3EW^7, ^3AOD^7, ^3Cult^7, ^3PFF^7, ^3JOA^7.
-Cyrillics addon/russian font/russian/cyrillics/russian font addon|a replacement for ^3JKA^7.\Provides the ability to see and understand the cyrillics an addition to nice font overall.\Downside - replaces the special symbols like\"^1СТАРБАКС, ЕГОР, ОНА РАБОТАЕТ В СТАРБАКСЕ, ОКСТИСЬ, мы поговорим об этом чуть больше завтра" ^7etc.\Link: ^5tinyurl.com/mb2rufont^7.
+Clans|^3ad.ppl^7, ^3BG^7, ^3DN^7, ^3327th^7, ^3dv[8]^7, ^3EW^7, ^3AOD^7, ^3Cult^7, ^3PFF^7, ^3JOA^7.
+Cyrillics addon/russian font/russian/cyrillics/russian font addon|a replacement for ^3JKA^7.\Provides the ability to see and understand the cyrillics an addition to nice font overall.\Downside - replaces the special symbols like\"АБВГД" ^7etc.\Link: ^5tinyurl.com/mb2rufont^7.
 DG|clan, which mostly (if not completely) consists of finns. Leader: ^3Ben^7.
 DN|international clan (^0R.I.P^7), founded by former ^3327th ^7members. Leaders: ^3Nameless^7, ^3GekkouLight
 Deshiel/akimaru|writes cool music, works in McDonalds, puts his new mixtapes into Happy Meals.
@@ -29,7 +26,6 @@ Fun|this is what you aren't going to have in ^3MBII^7.
 Gabe|will never get to my info list.
 GoodOl'Ben/Ben|worst developer ever, ex-lead of ^3MBII^7, leader of ^3DG^7. Creator of ^3spamwars.co.nr^7.
 Gr1meZ|Artyom, teamkiller, lamer, troll, ''oldfag'', anon, otaku. Member of ^3ad.ppl^7.
-Grey Jedi Order/gjo|clan of duelists, founded in 2016. Leader: ^3Alice^7.
 Helix/devil|^3MBII ^7ex-developer, coder, cheater, failadmin and overall a shitty person. Member of ^3ad.ppl^7.\Roles in ^3MBII ^7team: optimization, backend, admin stuff, anticheat.
 Hessu|^3Shi ^7worshipper, kek lord and ^3blue^7fag.
 Hexodious/hex|^3MBII ^7developer, ^3Open^7-oriented gameplay leader, mapper, streaming star. Member of ^3dv[8]^7.
@@ -37,19 +33,14 @@ Hezlix|your mom was so ^1hezlix ^7when I was inside her last night.
 Hitler|did nothing wrong.
 Ich bin Batman!/batman/ich bin batman|Angry german kid of ^3MBII^7, pro player, ^3passthrough ^7master, russian failfuck slayer.
 Intentional teamkilling/teamkilling/tking/tk|killing your own teammates intentionally (wow, really?).
-Inv@der|leader of ^3FOAF^7.
-Jedi Order Academy/J/joa|dueling clan. Known members: ^3Aaron^7, ^3Shilling^7, ^3SK5^7, ^3Kas^7, ^3Jew^7.
-Juvia|male queen of forcewhores and cheese lover. Member of ^3PFF^7.
-Kebab|fried ^3Helix^7. ^3Sezer^7's biggest desire.
+Jedi Order Academy/J/joa|dueling clan. Known members: ^3Aaron^7, ^3Shilling^7, ^3SK5^7, ^3Kas^7, ^3Jew^7
 Kwinto|^3Bob billy ^7worshipper, best duelist EU, boyfriend of ^3Aaron^7.
 Laming|killing someone who has his saber off, chatting or dueling another person (^3Duel ^7mode)
 Lervish|best developer ever.
-LoU|^3MBII ^7developer, project lead, ^3launcher ^7developer and ^3site ^7host. Member of ^3dv[8]^7.
 MBII Launcher/launcher|tool for updating ^3MBII ^7.Creator: ^3LoU^7.\Provides links to the useful guides, minimizer and repair tool.
 Magnшs/Magnos/хуй с горы|genetically engineered to be superior as so as to lead others to peace in a world at war.
 Manual block/mblock/disarm|ability to disarm the opponent if you are ^3PB^7ing and he isn't ^3swingblock^7ing.\Performed by tapping attack button while holding block at the moment when sabers clash.
 Maps|^3mb2_dotf^7, ^3mb2_deathstar^7.
-Mara/Maaraaa|possibly, the kewlest girl evah and the best duelist to ever exist.
 Mechanics|^3MBlock^7, ^3PB^7, ^3swingblock^7.
 Moviebattles II/mbii/mb2/moviebattles ii|modification for Jedi Academy game, started in 2003 by ^3RenegadeOfPhunk^7.
 Open mode/Open|primary game mode of ^3MBII^7. Features 14 classes and free model choice per class.
@@ -60,21 +51,17 @@ Penekepack/peneke pack|replacement pack for ^3MBII^7. Creator - ^3Penekowski ^7a
 Pepsi/ad.ppl.Pepsi|irreplaceable leader of ^3ad.ppl^7. Winner of ^3QS'MBIIGT-2012 ^7as captain of ^3hh.ppl ^7team.
 Perfect block/PB|special kind of blocking, showed as green indicator when blocking the saber swing.\Doesn't drain ^3BP^7.
 Pipexlul|^3MBII ^7developer, mapper, original creator of manual saber color changing script. 
-Play for fun/PFF|a clan?.. Leader - ^3Xendel^7.
 Players|type player's nick to get info about him (sincerely yours, C.O.).
 Rainbow|side app by ^3Helix^7.\Primary modules: random ^5name^7, ^5skin ^7and ^5saber colors autochanger.\Secondary modules: translator (^5!translate^7) and info (^5!info^7).
-Rosey Mihaa/Rosey|reine de MBII, hearts invader, strong child, potato. Never online on steam.
 Rulebreaking|^3laming^7, ^3timewasting^7, ^3teamkilling^7.
 Rшn¡n/Ronin/er rai|thinks I am a handsome boy, ^3staff ^7lover. I don't remove this info to piss him off.
 SMOD|Administrative system used in ^3MBII^7. 16 IDs - 16 admins on each server.
 SeV|top duelist, great person, had huge impact on dueling system since 1.4. Wrote ''The Dueling Compendium''. Knows memes.
-Sezer/szer/szi|^3Kebab ^7lover, ^3Rosey ^7follower, ^3Bastila ^7explorer, ping master, ^3GJO^7's dog.
 Shilling/Chilling/Skilling/Shezling|blue effective, young philosopher, eternal Obi-Wan, gay ginger, brother of ^3Owen^7.\What will we do with a drunken sailor?
 Spaghetti/FlyingSpaghettiMonster/FSM|^3MBII ^7developer, mapping lead.
 Starkiller/ragnar lothbrok|^7single and ready to mingle ladies. ^3Blue ^7''expert''.
 Stassin/sisi|^3MBII ^7developer, code & gameplay leader, responsible for ^3Open ^7mode and saber system.
 Swingblock|defensive technique intended to avoid most of ^3knockdown^7s & ^3disarm^7s.\Performed ^7by holding block button during a swing.
-Sxx|ex-lead of ^3MBII^7, was kicked after cutting the backup process in an attempt to kill the development process.
 Tempest|^3MBII ^7developer, responsible for ^3Open ^7mode and saber system. Member of ^3EW^7.
 The Omelette Prince/Agentoo8/omelette|you dare to ask? It's the truth, his eggs are fast!
 The cult of Ragnos/EMP/cult|convinced about being a top-clan.
@@ -82,20 +69,16 @@ Timewasting|staying in any hardly reachable place for a long time, slowing down 
 Tisio|just a suitcase and member of ^3FOAF^7.
 Viserys|^3MBII ^7developer, code lead, event manager. Member of ^3BG^7.
 White style/staff|ez as fuck.
-Xendel/Vickthor|leader of ^3PFF^7.
 Yam|a guy who never uses my script correctly.
 Zebra/GiaguaroNero/Guapter/AfroSamurai|idea generator. Member of ^3ad.ppl^7.
 ^3MBII official discord/discord|^5tinyurl.com/mb2discord
 ^3Moviebattles II official site/site|^5moviebattles.org.
-a clitoris|likes being abused by ^3Helix^7. Pro sniper.
 dv[8]/dv8|ancient clan with an uncertain history, in 2015 was resurrected by ^3Qwerty^7, ^3M00 ^7and ^3Hexodious^7.
 mb2_deathstar/deathstar|best map for ^3Open^7, however none knows it.
 mb2_dotf/dotf|most played map and cancer, killing ^3MBII^7.
 rAin|famous alcoholic, often called ''daddy''.
 ur mom/your mother|fat bitch.
-Silvio|failadmin, failrussian, failsith, failjedi. Son of ^3Viserys^7.
-DDoS/lnf|russian clan. Leader - Serenity. Known members: ^3TechShaman^7.
+Silvio|failadmin, failrussian, failsith, failjedi.
 Penekowski|^3MBII ^7developer, maintainer. Created ^3Penekepack ^7with his minions.
 RenegadeOfPhunk|our lord and savior, creator of ^3MBII^7.
-Galactic Civilization/GC|former clan leaded by MrGenga, currently named ^3LNF^7.
 Encritary/TechShaman|linuxoid, javaman, phpman, dumb troll, member of ^3DDos^7.
