@@ -1,4 +1,4 @@
-display_name/search_name_1/search_name_2|^7Description ^1from ^2the ^3file.\Next message.
+display_name (searchable)/search_name_1/search_name_2|^7Description ^1from ^2the ^3file.\Next message.
 327th|international clan (^0R.I.P^7), founded by ^3Urai'Fen^7.
 Aaron|ebat koney ebat. ebat koney ebat. ebat koney ebat. ebat koney ebat.
 Adequate people/ad.ppl|international clan, founded in 2010. Leader: ^3Pepsi^7.\Members: ^3Pepsi^7, ^3Helix^7, ^3Zebra^7, ^3Jiube^7, ^3Null^7, ^3Gr1meZ^7, ^3Brave^7, ^3Bybo4ka^7,\^3banDana^7, ^3Jul^7.
